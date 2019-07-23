@@ -18,13 +18,13 @@ Setting up my mac
 
 ## iTerm2
 
-1. Download iTerm2: ![link](https://www.iterm2.com/)
+1. Download iTerm2: [link](https://www.iterm2.com/)
 2. Go to `Preferences`
 3. Go to `Profile`
 4. Choose `Esc+` for the left and right command key
 5. Go to `Text`
 6. Choose `Source Code Pro` for both fonts
-7. Download ayu theme: ![ayu](https://iterm2colorschemes.com/)
+7. Download ayu theme: [ayu](https://iterm2colorschemes.com/)
 8. Go to `Colors`
 9. Click `color presets`, choose `import`, and choose the downloaded `ayu`
 10. Go to `Terminal`
