@@ -44,3 +44,28 @@ Setting up my mac
 4. `git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d`
 5. Get `.spacemacs` from [https://github.com/obedtandadjaja/dotfiles](https://github.com/obedtandadjaja/dotfiles)
 6. Launch emacs `emacs --insecure`
+
+## Postgres
+
+1. Download the `Postgres.app` here: [https://postgresapp.com/](https://postgresapp.com/)
+2. Move to Applications folder
+3. Click `Initialize` to create a new server
+4. Configure `$PATH` to use command line tools (optional): 
+```
+sudo mkdir -p /etc/paths.d &&
+echo /Applications/Postgres.app/Contents/Versions/latest/bin | sudo tee /etc/paths.d/postgresapp
+```
+
+**Default settings:**
+
+Host: `localhost`
+
+Port: 5432
+
+User: *System user name*
+  
+Database: *System user name*
+  
+Password: *none*
+  
+Connection URL: `postgresql://localhost`
