@@ -29,3 +29,12 @@ Setting up my mac
 9. Click `color presets`, choose `import`, and choose the downloaded `ayu`
 10. Go to `Terminal`
 11. Click `Unlimited scrollback`
+
+## emacs / spacemacs
+
+1. `brew tap d12frosted/emacs-plus`
+2. `brew install emacs-plus`
+3. `ln -s /usr/local/Cellar/emacs-plus/*/Emacs.app/ /Applications/` create softlink for emacs in Applications
+4. `git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d`
+5. Get `.spacemacs` from [https://github.com/obedtandadjaja/dotfiles](https://github.com/obedtandadjaja/dotfiles)
+6. Launch emacs `emacs --insecure`
