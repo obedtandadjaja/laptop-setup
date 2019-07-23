@@ -74,3 +74,8 @@ Connection URL: `postgresql://localhost`
 
 1. Download Window Manager from here: [https://www.spectacleapp.com/](https://www.spectacleapp.com/)
 2. Unzip folder and move the app to the Applications folder
+
+## zsh
+
+1. Make `zsh` the default shell: `chsh -s $(which zsh)`
+2. Copy paste zsh files from [https://github.com/obedtandadjaja/dotfiles](https://github.com/obedtandadjaja/dotfiles)
