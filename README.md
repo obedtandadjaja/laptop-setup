@@ -86,3 +86,7 @@ Connection URL: `postgresql://localhost`
 
 1. Make `zsh` the default shell: `chsh -s $(which zsh)`
 2. Copy paste zsh files from [https://github.com/obedtandadjaja/dotfiles](https://github.com/obedtandadjaja/dotfiles)
+
+## prezto
+
+1. Clone prezto: `git clone --recursive https://github.com/sorin-ionescu/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"`
