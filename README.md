@@ -22,6 +22,12 @@ Setting up my mac
 3. Click Modifier keys
 4. Change `capslock` to `escape`
 
+### Dock
+
+1. Go to `Dock Preferences`
+2. Unselect `Show recent applications in Dock`
+3. Unselect `Animate opening applications`
+
 ## iTerm2
 
 1. Download iTerm2: [https://www.iterm2.com/](https://www.iterm2.com/)
