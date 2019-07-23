@@ -27,6 +27,7 @@ Setting up my mac
 1. Go to `Dock Preferences`
 2. Unselect `Show recent applications in Dock`
 3. Unselect `Animate opening applications`
+4. Add `Documents` to dock
 
 ## iTerm2
 
