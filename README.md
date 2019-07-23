@@ -69,3 +69,8 @@ Database: *System user name*
 Password: *none*
   
 Connection URL: `postgresql://localhost`
+
+## Spectacle
+
+1. Download Window Manager from here: [https://www.spectacleapp.com/](https://www.spectacleapp.com/)
+2. Unzip folder and move the app to the Applications folder
