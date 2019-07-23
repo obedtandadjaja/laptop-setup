@@ -3,6 +3,12 @@ Setting up my mac
 
 ## Mac
 
+### Font
+
+1. Download `Source Code Pro` from [https://fonts.google.com/specimen/Source+Code+Pro?selection.family=Source+Code+Pro](https://fonts.google.com/specimen/Source+Code+Pro?selection.family=Source+Code+Pro)
+2. Unzip the folder
+3. Double click `Source Code Pro` and install the font
+
 ### Trackpad
 
 1. Go to My Preferences
